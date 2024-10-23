@@ -1,0 +1,20 @@
+On the command ==>  " ls -la "
+
+Explanation of Each Column
+File Size (in 1K blocks): The first column shows the size of the file or directory in 1K blocks. For instance, 4 means 4 kilobytes.
+
+File Type and Permissions: The second column indicates the file type and permissions. For example:
+
+drwxrwxr-x indicates a directory with read, write, and execute permissions for the owner and the group, and read and execute permissions for others.
+-rw-rw-r-- indicates a regular file with read and write permissions for the owner and group, and read-only permissions for others.
+Number of Hard Links: The third column shows the number of hard links to the file or directory. For example, 7 means there are 7 hard links.
+
+Owner: The fourth column shows the owner of the file or directory. For example, huppdev28.
+
+Group: The fifth column shows the group associated with the file or directory. For example, huppdev28.
+
+Size (in bytes): The sixth column shows the file size in bytes.
+
+Modification Date and Time: The seventh column shows the last modification date and time.
+
+File/Directory Name: The last column shows the name of the file or directory.

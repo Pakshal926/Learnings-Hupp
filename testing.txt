@@ -1,0 +1,19 @@
+Things to Keep in Mind Before Sending Code for Q/A:
+
+1. Test from the Frontend (if possible):
+   Ensure that the code behaves as expected from the frontend interface to catch potential issues early.
+
+2. Prepare a List of Required Fields:
+   Identify and document all the necessary fields beforehand to avoid missing any key input during development.
+
+3. Ensure Code Completeness:
+   Double-check for missing logic, incomplete functions, or placeholder comments before submission.
+
+4. Follow Project Guidelines:
+   Ensure the code adheres to the project's naming conventions, file structures, and formatting rules.
+
+5. Review for Errors or Warnings:
+   Run the code locally to detect and fix any obvious bugs or console warnings before submitting.
+
+6. Add Basic Documentation:
+   Include minimal comments or notes to explain complex parts of the code for easier understanding by reviewers.
