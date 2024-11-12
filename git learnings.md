@@ -33,3 +33,17 @@ To amend the last commit while skipping the staging area for modified files, you
 ```bash
 git commit -a --amend
 
+
+
+--> How to delete the branch locally and remotely:
+
+git branch -d <branch-name>
+git push origin --delete <branch-name>
+
+
+--> How to merge the branch:
+git pull <branch1>
+git pull <branch2>
+
+git chckout <branch1> - This is the branch in which final code needs to come.
+git push origin branch1 - to commit changes in the code.
